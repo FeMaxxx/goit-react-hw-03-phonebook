@@ -23,7 +23,7 @@ export const Name = styled.p`
 
 export const Number = styled.span`
   width: 100px;
-  text-align: start;
+  text-align: center;
 `;
 
 export const Button = styled.button`
